@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*journal
+*session
+*log
+sessions/
+.env
+service.json
+*sqlite

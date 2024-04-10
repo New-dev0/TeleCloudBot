@@ -1,0 +1,6 @@
+swibots
+python-decouple
+pyrogram
+firebase-admin
+aiohttp
+requests-cache
