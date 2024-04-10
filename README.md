@@ -18,16 +18,13 @@
 
 ## Screenshots
 <p float="left">
-<img src="./screenshots/image0.png" height="500" width="200">
+<img src="./screenshots/image0.png" height="500" width="230">
 <img src="./screenshots/image1.png" height="500"width="230">
+<img src="./screenshots/image02.png" height="500" width="230">
 </p>
 <p float="left">
-<img src="./screenshots/image02.png" height="500" width="200">
 <img src="./screenshots/image3.png" height="500"width="230">
-</p>
-
-<p float="left">
-<img src="./screenshots/image04.png" height="500" width="200">
+<img src="./screenshots/image04.png" height="500" width="230">
 </p>
 
 ## Installation
@@ -51,3 +48,6 @@ python3 main.py
 
 ## Based on
 - [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot/)
+
+## Powered by
+- [swibots](https://github.com/switchcollab/Switch-Bots-Python-Library)
